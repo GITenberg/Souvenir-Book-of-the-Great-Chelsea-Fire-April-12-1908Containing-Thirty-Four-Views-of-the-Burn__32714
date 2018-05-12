@@ -1,0 +1,33 @@
+_repo: Souvenir-Book-of-the-Great-Chelsea-Fire-April-12-1908Containing-Thirty-Four-Views-of-the-Burn__32714
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32714-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chelsea (Mass.) -- Pictorial works'
+- !lcsh 'Chelsea (Mass.) -- Fire, 1908'
+- !lcc 'F001'
+- !lcsh 'Fires -- Massachusetts -- Chelsea'
+- !lcsh 'Fires'
+title: 'Souvenir Book of the Great Chelsea Fire April 12, 1908
+
+  Containing Thirty-Four Views of the Burned District and Prominent Buildings'
+url: http://www.gutenberg.org/ebooks/32714
